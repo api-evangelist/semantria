@@ -1,0 +1,32 @@
+aid: semantria
+name: Semantria
+description: "Text Analytics with sentiment analysis, categorization & named entity extraction"
+url: https://semantria.readme.io/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: Semantria
+    description: "Text Analytics with sentiment analysis, categorization & named entity extraction"
+    humanURL: https://semantria.readme.io/docs
+    baseURL: https://semantria.readme.io/docs
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://semantria.readme.io/docs
+common:
+  - type: Website
+    url: https://semantria.readme.io/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
